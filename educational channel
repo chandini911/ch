@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Education Website</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Education Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="courses">
+        <h2>Available Courses</h2>
+
+        <article class="course">
+            <h3>Course Title 1</h3>
+            <p>Course Description 1</p>
+            <p>Duration: 6 months</p>
+            <p>Course Fee: $1000</p>
+        </article>
+
+        <article class="course">
+            <h3>Course Title 2</h3>
+            <p>Course Description 2</p>
+            <p>Duration: 8 months</p>
+            <p>Course Fee: $1200</p>
+        </article>
+
+        <!-- Add more courses as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need further information, please feel free to contact us:</p>
+        <address>
+            Email: <a href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a><br>
+            Phone: +1 (123) 456-7890<br>
+            Address: 123 Education Street, City, State ZIP
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Education Website</p>
+    </footer>
+</body>
+</html>
